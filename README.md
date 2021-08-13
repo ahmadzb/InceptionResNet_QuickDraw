@@ -82,19 +82,19 @@ Depth | File
 
 ### Modification to some blocks of the network - 53 categories:
 The modifications are depicted bellow:
-* stem modification: This modification is done on the stem block of the network
+* **stem modification**: This modification is done on the stem block of the network
 
 <img src="/images/stem_modified1.svg" height="200">
 
-* inceptionA modification 1: This modification is done on the Inception-ResNet-A blocks of the network
+* **inceptionA modification 1**: This modification is done on the Inception-ResNet-A blocks of the network
 
 <img src="/images/inception_a_block_mod1.svg" height="200">
 
-* inceptionA modification 2: This modification is done on the Inception-ResNet-A blocks of the network
+* **inceptionA modification 2**: This modification is done on the Inception-ResNet-A blocks of the network
 
 <img src="/images/inception_a_block_mod2.svg" height="200">
 
-* inceptionB modification 1: This modification is done on the Inception-ResNet-B blocks of the network
+* **inceptionB modification 1**: This modification is done on the Inception-ResNet-B blocks of the network
 
 <img src="/images/inception_b_block_mod1.svg" height="200">
 
