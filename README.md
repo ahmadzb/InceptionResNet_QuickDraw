@@ -1,5 +1,12 @@
 # InceptionResNet_QuickDraw
 
+##  What is it all about?
+This repository contains an array of python notebooks (`.ipynb` files). Each notebook is fully independent from other notebooks and separetely does the following tasks:
+* creates a modification of Inception-ResNet convolutional neural netwrok (CNN)
+* converts `.ndjson` vector images downloaded from `https://github.com/googlecreativelab/quickdraw-dataset` to raster images (bitmaps) readable with the implemented CNN model, 
+* trains the model with the converted images.
+* plots graphs of the accuracy and loss of the trained model
+
 ## Guide to file names:
 
 File names have this pattern:
