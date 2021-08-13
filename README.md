@@ -47,7 +47,7 @@ File names have this pattern:
 
 Inception_ResNet_X.ipynb
 
-X indicated in the lists bellow shows what each file does.
+X should be replaced by one of the names indicated in the *File* column of the tables. For instance, if the column value for the *file* column is **E4**, the filename will be Inception_ResNet_**E4**.ipynb
 
 ### Change in the width of the network - 20 categories:
 
