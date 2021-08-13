@@ -105,3 +105,9 @@ stem modification | E4_7
 inceptionA modification 1 | E4_8
 inceptionA modification 2 | E4_9
 inceptionB modification 1 | E4_10
+
+### About the plotter file
+This repository also contains the file `Plotter.ipynb` which can be executed only after all the other `*.iphnb` files mentioned in the tables in the "Guide to file names" section have been executed. The plotter file uses the history files created by other `.ipynb` files to create plots containing information from several runs of the model.
+
+### About the folders in this repository
+All the folders starting with `trainedModel` are auto-generated with the respective `.ipynb` file and are used with the plotter file. The trained models also reside in these directories and can be extracted for inferenece in an application. 
